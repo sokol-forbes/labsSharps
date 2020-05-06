@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 /* Lesen 1*/
 
-namespace lab3
+namespace lab5
 {
 
     enum printProperty
